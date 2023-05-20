@@ -81,10 +81,10 @@ public class Customer{
 	public void setDob(LocalDate dob) {
 		this.dob = dob;
 	}
-	public boolean isMarried() {
+	public boolean isActive() {
 		return isActive;
 	}
-	public void setMarried(boolean isActive) {
+	public void setActive(boolean isActive) {
 		this.isActive = isActive;
 	}
 
